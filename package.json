@@ -1,0 +1,16 @@
+{
+  "name": "fun-project",
+  "version": "1.0.0",
+  "description": "make fun with NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "ascii-banner": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
